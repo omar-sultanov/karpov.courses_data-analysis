@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glassy-vial-424214-h2",
+  "private_key_id": "f489e8466291dd20c8cc7190803bf897f7dd75ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6djgdP9TkuHv8\ndYKRpJrDWMqdMxZhlSAMwnAkYE9cxEfrjnhcKFDmr20K0v56/08y14OYQNP8bPza\nlymNJHJPveglwRUZRtMrWLqWX/wnTpOiPf+WKN2YlpKViEeJ2KV4G/7KCMD1AZC0\nkTXCuZh1tMgZc8fwWA7FWkPYLwK0wDIYHFdSGxlXsTEqgbZuL5VWuiHG53QBXNPR\n45iytV0gWFNfCkOH6B6pO/PaY7Uh1m6xUfMModEn2V0t0f8Hmzp5SNgI2XNCB6xL\nolKxODm4nDKirZGJ7kKrwjptxRiQydhFjlS6H0uMyh2bFkqO8r4xargQJJZ7UIMn\nQZGMlasvAgMBAAECggEARBu7in+O4Y67hy9bJpzkBPfRZpNLGRDSGKcLNFZTltSB\nWrr7HtqBFoo8f8grOT05rh4HjN0dMaaTw7qUbGBEOvloqyW4cbermbk6yoO8BJWQ\nmqIf0jcSHlLdry4Mx36xjkpXim+hH71XIIWsB/koBdKnhpiCjzlzB8ZdYsFlMSUl\naoFXoO5rTlN5LXViaMpurVYAy1fobw3rR29zxDdU2nc0h/cW/rJczJi/uLIoA6Vz\nTPi7wg/MBwffJ/GD4X+gAUcfZuaZ+2YyULfCResXHIcm7dl2rlByRmJHV65lhPOU\nGM/2Bl0QWsMa88n65sMe50tziv9d1Ji2dmAtCvg13QKBgQDbVsFRDnbckreqs/qK\nVgNJeo9toOmE7BUjJSn3gvsDjnZhVxwU9GkbtXvrAui0YWIq0QpvsxlElNkjTRWi\nJF8FETYgnIZOTNXACa1lN+py0tnWcRgwsAuBADUiKPalTfCJvuZLJTatYb+2bl1j\nmgpUjHbjsH7ApE0hxnlNwedTuwKBgQDZoLFvvKZYz9/TzaFsGLhaAARKCcNExQ9f\nIO4EibORsGya0wlGmkh2DCoH398Mj2U+8mvlrxR8RIHqms4xFab+hS+0yWwGfufv\nBINfbDBiTA+sYhZtvsUD7rF7+xAcFFAECEM3KWO4Za6Xln9/7WqbGZgf04DCxHVi\nRoFmw98dHQKBgAiYNar/bhjmhtvhgYe6JxbR/pzFGWFj/tAJvMM+FqflBS57Q1Zu\n3U+ApQJocsXeqwISft4xnmPZkUiY1Kgt1KtWKVDN0VVwHVAREQJOVpl5OZ/1foUp\n4MmFQI++GywPCcXb/RoksyfIFMMJQA+PEaiOeHojiFP0HDGenVI2ruHRAoGAP+ju\n8q9l8oLpalvi4cnIqbWDjPKdA58TSo5zF6YQs+IporYC7Vb1nKUp2rIl4Jxj0T6D\n7SmjTHMZ6/mWP9fp+KjIP8E/FhFCr3CV2/n7o4JOwAL2LzhsxyDbwlsSegyFCwoa\nIyLmhApoYV/zBXCFdBLqF76W+5uSFVA7RCCVbwkCgYEAot6h5lYMP+lEdkQznpS5\norY/kiBJN84bkmUOlBWK3lVz7QCvIlG8v3MlE0kfzebKJntBGBmkyOB9R7fXd8Rd\nhUwavflMgLNFbLUynyxD8k9JLQnTwioObb2K2kE5xlXeR11a4bTGqWL+DpsP/Kxb\nHwxFf6HSNaQukawd63dN408=\n-----END PRIVATE KEY-----\n",
+  "client_email": "projectname@glassy-vial-424214-h2.iam.gserviceaccount.com",
+  "client_id": "105295286767115997779",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projectname%40glassy-vial-424214-h2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
